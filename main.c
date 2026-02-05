@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 void printCurpen();
+void printCurpen2();
 
 int main(void) {
 	printCurpen();
